@@ -1,7 +1,7 @@
 Dados do aluno
 
 -Primeiro Nome: Jaqueline
--Profissão: Analista Trainee
+-Profissão: Analista 
 -Cidade: Toledo/PR
 -O que faz nas horas vaga: Estudo idiomas
 -Feedback sobre o curso Qualidade de Software: Tem sido um desafio
