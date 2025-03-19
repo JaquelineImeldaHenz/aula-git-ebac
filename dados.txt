@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Jaqueline
+-Profissão: Analista Trainee
+-Cidade: Toledo/PR
+-O que faz nas horas vaga: Estudo idiomas
+-Feedback sobre o curso Qualidade de Software: Tem sido um desafio
+-Feedback sobre a plataforma de estudo da EBAC: Alguns itens, mas ainda é intuitivo
 
 Obrigado!!!
 
